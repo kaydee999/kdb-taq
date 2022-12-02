@@ -2,8 +2,8 @@
 
 ## Changes to kdb+taq
 
-### 2022.01.06 (`Bid_Price` type fix in tq.q)
-changing `Bid_Price` from real to float to avoid `Bid_Price`, `Offer_Price` type inconsistency
+### 2022.12.02 (`Bid_Price` type fix in tq.q)
+changing `Bid_Price` from float to real to avoid `Bid_Price`, `Offer_Price` type inconsistency
 
 ### 2020.06.12 (version 3.3 - sync with NYSE daily taq version 3.3)
 handle (ignore) additional flags TradedOnMEMX and TradedOnMIAX in master file
